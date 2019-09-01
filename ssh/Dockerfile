@@ -1,6 +1,6 @@
 FROM alpine:latest
-LABEL "maintainer"="maddox <jon@jonmaddox.com>"
-LABEL "repository"="https://github.com/maddox/actions"
+LABEL "maintainer"="arne"
+LABEL "repository"="https://github.com/arneee/actions"
 LABEL "version"="1.0.1"
 
 LABEL "com.github.actions.name"="SSH"
